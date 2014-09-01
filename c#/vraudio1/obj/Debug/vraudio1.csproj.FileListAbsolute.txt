@@ -1,0 +1,13 @@
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\bin\Debug\vraudio1.exe.config
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\obj\Debug\vraudio1.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\obj\Debug\vraudio1.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\obj\Debug\vraudio1.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\bin\Debug\vraudio1.exe
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\bin\Debug\vraudio1.pdb
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\bin\Debug\Vannatech.CoreAudio.dll
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\obj\Debug\vraudio1.exe
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\obj\Debug\vraudio1.pdb
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\bin\Debug\CoreAudio.dll
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\bin\Debug\CoreAudio.pdb
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\bin\Debug\Vannatech.CoreAudio.xml
+c:\users\michael\documents\visual studio 2012\Projects\vraudio1\vraudio1\obj\Debug\vraudio1.Form1.resources
